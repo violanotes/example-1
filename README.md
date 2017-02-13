@@ -41,5 +41,6 @@ Can you try the following:
 * create a branch for **feat-B** and **feat-C**
 * create *B.txt* and *C.txt* in their respective branches and commit each file with a description for each commit
 * create new pull requests for each branch to their base **devel** branch, **feat-B** and **feat-C**
+* *Do Not* merge the pull requests.  This will let me see if we can see pull requests that the other person creates.
 
 
